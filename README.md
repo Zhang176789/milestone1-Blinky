@@ -22,4 +22,5 @@ g.Error Handling (Error_Handler).
 6.For LED blinking, using a while loop and set the LED to turn on for 600 milliseconds and off for 1000 milliseconds.
 
 7.DEMO video link on YouTube: https://youtu.be/FlFFnVAFnRU?si=BJgSToomIFqOPglz.
+
 NOTE: for the figures view the set up instructions word document.
